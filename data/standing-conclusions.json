@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C1",
+    "claim": "Weak onboarding caused the signup drop in March.",
+    "evidenceRef": "onboarding_change_log"
+  },
+  {
+    "id": "C2",
+    "claim": "We have best-in-class retention compared to the Q1 benchmark report.",
+    "evidenceRef": "benchmark_comparison"
+  },
+  {
+    "id": "C3",
+    "claim": "Price sensitivity is highest in the lowest-income segment.",
+    "evidenceRef": "price_sensitivity_pulls"
+  },
+  {
+    "id": "C4",
+    "claim": "Users churn because support response time is too slow.",
+    "evidenceRef": "support_response_data"
+  }
+]

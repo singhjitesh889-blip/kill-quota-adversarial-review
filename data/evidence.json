@@ -1,0 +1,25 @@
+{
+  "onboarding_change_log": {
+    "summary": "Onboarding flow was completely unchanged between February and March. No deploys, no copy changes, no A/B test running.",
+    "checkable": true,
+    "contradicts_claim": true,
+    "note": "A constant can't explain a change. Separately, traffic-source mix shifted toward a lower-intent channel in the same window -- that's the thing that actually moved, and it's worse than the original claim implied."
+  },
+  "benchmark_comparison": {
+    "summary": "The Q1 benchmark report defines retention as 30-day active; our internal number is 90-day active. The two are not comparable as published.",
+    "checkable": true,
+    "contradicts_claim": true,
+    "note": "The internal number isn't being disputed -- the benchmark's categories don't match it, so the comparison itself is invalid."
+  },
+  "price_sensitivity_pulls": {
+    "summary": "Three independent data pulls (monthly, quarterly, and a targeted survey) all show the same segment ordering. No contradicting pull found.",
+    "checkable": true,
+    "contradicts_claim": false
+  },
+  "support_response_data": {
+    "summary": "One support ticket thread mentions slow response as a factor in a single cancellation. No systematic churn-vs-response-time data exists.",
+    "checkable": true,
+    "contradicts_claim": null,
+    "note": "Not enough evidence to kill OR confirm. The claim might be true -- there's just nothing here that proves or disproves it at scale."
+  }
+}

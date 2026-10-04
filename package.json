@@ -1,0 +1,11 @@
+{
+  "name": "kill-quota-adversarial-review",
+  "version": "1.0.0",
+  "description": "A forced minimum disagreement rate against standing beliefs -- with an evidence gate that blocks fabricated kills.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/run.mjs"
+  },
+  "license": "MIT",
+  "author": "Jitesh Kumar Singh"
+}
